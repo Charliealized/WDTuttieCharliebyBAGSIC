@@ -1,0 +1,27 @@
+!!!BEFORE CHECKING ANYTHING!!!
+Download these gifs and import them on the ../assets/img folder.
+GitHub isn't allowing me to upload my files due to 
+the size of the gifs so please install them prior to checking my
+work.
+
+The Drive LINK:
+https://drive.google.com/drive/folders/1r225VTkm-4COVTmnbomoz9gCxx-jOq6r?usp=sharing
+
+--------------------------------------------------
+
+If all the files are present, the website should look like this
+
+Demo:
+https://youtu.be/UL6MDqAjTIM
+
+
+RESOURCES USED FOR THE WEBSITE:
+
+Home Menu:
+
+https://www.youtube.com/watch?v=2DVkNvVcQAU
+
+GALLERY:
+https://www.youtube.com/watch?v=3TN9J3pCn6k
+
+--------------------------------------------------
