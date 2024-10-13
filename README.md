@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="https://yt3.googleusercontent.com/IFO9U43Dxmwi5Wxb4U1iE6JK2J43r4BqLQp81cgX3hum93Z5tKUB0-gORTDvA83mq09EIxIxVg=s160-c-k-c0x00ffffff-no-rj" alt="Nyebe" width="130" height="100">
+    <img src="https://yt3.googleusercontent.com/IFO9U43Dxmwi5Wxb4U1iE6JK2J43r4BqLQp81cgX3hum93Z5tKUB0-gORTDvA83mq09EIxIxVg=s160-c-k-c0x00ffffff-no-rj" alt="Nyebe" height="200">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Tuttie Charlie: A Website Portfolio</h3>
