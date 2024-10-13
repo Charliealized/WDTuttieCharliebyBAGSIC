@@ -1,5 +1,5 @@
 !!!BEFORE CHECKING ANYTHING!!!
-Download these gifs and import them on the ../assets/img folder.
+Download the files in this google drive link and import the "img" folder to the assets folder.
 GitHub isn't allowing me to upload my files due to 
 the size of the gifs so please install them prior to checking my
 work.
@@ -13,6 +13,8 @@ If all the files are present, the website should look like this
 
 Demo:
 https://youtu.be/UL6MDqAjTIM
+
+--------------------------------------------------
 
 
 RESOURCES USED FOR THE WEBSITE:
