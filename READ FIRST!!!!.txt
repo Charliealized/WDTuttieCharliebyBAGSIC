@@ -1,15 +1,10 @@
-!!!BEFORE CHECKING ANYTHING!!!
-Download the files in this google drive link and import the "img" folder to the assets folder.
-GitHub isn't allowing me to upload my files due to 
-the size of the gifs so please install them prior to checking my
-work.
 
-The Drive LINK:
-https://drive.google.com/drive/folders/1r225VTkm-4COVTmnbomoz9gCxx-jOq6r?usp=sharing
 
---------------------------------------------------
-
-If all the files are present, the website should look like this
+NOTE:
+This was not what I originally had in mind.
+The site is supposed to have a high quality looping gif as a background but due to the
+issues presented by the limitations of github, I had to settle with jpg backgrounds. If you're curious
+as to how the site is supposed to look, a video link will be provided below.
 
 Demo:
 https://youtu.be/UL6MDqAjTIM
